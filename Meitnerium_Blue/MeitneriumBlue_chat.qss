@@ -11,7 +11,7 @@
  * TeamSpeak 3 Default Qt StyleSheet
  * Special file for ChatLog, loaded in addition to global default.qss stylesheet
  */
- 
+
 /* @group Global Elements */
 
 p {
@@ -20,6 +20,11 @@ p {
 }
 
 /* @end */
+
+a {
+  color: #75ffd6;
+  font-style: italic;
+}
 
 /* @group Object Link Elements */
 

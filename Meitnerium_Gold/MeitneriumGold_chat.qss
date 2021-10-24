@@ -1,0 +1,201 @@
+/*  __  __          _   _                           _
+ * |  \/  |   ___  (_) | |_   _ __     ___   _ __  (_)  _   _   _ __ ___
+ * | |\/| |  / _ \ | | | __| | '_ \   / _ \ | '__| | | | | | | | '_ ` _ \
+ * | |  | | |  __/ | | | |_  | | | | |  __/ | |    | | | |_| | | | | | | |
+ * |_|  |_|  \___| |_|  \__| |_| |_|  \___| |_|    |_|  \__,_| |_| |_| |_|
+ *
+ * Meitnerium Teamspeak 3 Theme
+ * made by de_munkey
+ *
+ * More info on the original:
+ * TeamSpeak 3 Default Qt StyleSheet
+ * Special file for ChatLog, loaded in addition to global default.qss stylesheet
+ */
+
+/* @group Global Elements */
+
+p {
+  padding: 2px;
+  margin: 2px;
+}
+
+/* @end */
+
+a {
+  color: #75ffd6;
+  font-style: italic;
+}
+
+/* @group Object Link Elements */
+
+.TextMessage_UserLink {
+  color: #7c9cff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.TextMessage_OfflineLink,
+.TextMessage_ChannelLink,
+.TextMessage_ServerLink {
+  color: #ffe87b;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* @end */
+
+/* @group Colored Message Elements */
+
+.TextMessage_HostName {
+  color: #7c9cff;
+  font-weight: bold;
+}
+
+.TextMessage_Welcome,
+.TextMessage_HostMessage,
+.TextMessage_Poke  {
+  color: #ffffff;
+}
+
+.TextMessage_Normal,
+.TextMessage_Connected,
+.TextMessage_ClientConnected,
+.TextMessage_ClientJoined {
+  color: #ff9f9f;
+}
+
+.TextMessage_Disconnected,
+.TextMessage_ClientDisconnected,
+.TextMessage_ClientSwitched,
+.TextMessage_ClientLeft {
+  color: #ff9f9f;
+}
+
+.TextMessage_ClientDropped,
+.TextMessage_ClientKicked,
+.TextMessage_ClientBanned {
+  color: #ff9f9f;
+}
+
+.TextMessage_ChannelCreated,
+.TextMessage_ChannelDeleted,
+.TextMessage_ChannelEdited,
+.TextMessage_ChannelMoved,
+.TextMessage_ServerEdited {
+  color: #ff9f9f;
+}
+
+.TextMessage_GroupAssigned,
+.TextMessage_GroupRevoked,
+.TextMessage_TalkPowerAssigned,
+.TextMessage_TalkPowerRevoked,
+.TextMessage_TalkPowerRequested {
+  color: #ff9f9f;
+}
+
+/* @end */
+
+/* @group Time and History Elements */
+
+.TextMessage_Time {
+    color: #ffffff;
+	font-weight: normal;
+}
+
+.TextMessage_BeginHistory,
+.TextMessage_EndHistory {
+  color: #ff9f9f;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* @end */
+
+/* @group Error Message Elements */
+
+.TextMessage_ServerError {
+  color: #f32e2e;
+  font-weight: bold;
+}
+
+/* @end */
+
+/* @group Infoframe Elements */
+
+.InfoFrame_Title {
+  font-size: x-large;
+}
+
+.InfoFrame_Title .TextMessage_UserLink,
+.InfoFrame_Title .TextMessage_ChannelLink,
+.InfoFrame_Title .TextMessage_ServerLink {
+  color: midnightblue;
+  font-weight: normal;
+}
+
+.InfoFrame_Title .InfoFrame_CustomNick {
+  color: palette(link);
+}
+
+.InfoFrame_Table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+
+.InfoFrame_Table td {
+  padding: 0px 4px 0px 1px;
+}
+
+.Highlight,
+.InfoFrame_Table td.Highlight {
+  color: #3160f2;
+}
+
+.Important,
+.InfoFrame_Table td.Important {
+  color: red;
+}
+
+.Active,
+.InfoFrame_Table td.Active {
+  color: green;
+}
+
+.Inactive,
+.InfoFrame_Table td.Inactive {
+  color: gray;
+}
+
+.InfoFrame_Table td.Label {
+  font-weight: bold;
+}
+
+.InfoFrame_Table td.Bottom {
+  vertical-align: bottom;
+}
+
+.InfoFrame_Table td.List {
+  padding: 0px 1px 0px 8px;
+}
+
+.InfoFrame_Table td.Badge {
+  padding: 5px 5px 0px 5px;
+}
+
+.InfoFrame_Table td.Space-Top {
+  padding: 10px 0px 0px 0px;
+}
+
+.InfoFrame_Table td.Space-Bot {
+  padding: 0px 0px 10px 0px;
+}
+
+.InfoFrame_Table.Space-Top {
+  margin: 10px 0px 0px 0px;
+}
+
+.InfoFrame_Table.Space-Bot {
+  margin: 0px 0px 10px 0px;
+}
+
+/* @end */
