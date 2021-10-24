@@ -10,6 +10,14 @@ A custom Teamspeak 3 skin, based on my [Meitnerium Theme](https://c-jaenicke.eu/
 
 ![bot settings](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/blue_settings.png)
 
+## Icon Pack
+
+Maybe i will create an icon pack myself, idk yet.
+
+In the screenshots i use the [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007)
+
+Any icon pack that is bright should work.
+
 ## Installation
 
 I would love to upload this to the offical addon store, but to my knowledge Teamspeak does not allow new upload at this time.
