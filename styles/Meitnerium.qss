@@ -463,7 +463,7 @@ QTreeView {
 TreeView {
 	background: #21262b;
     border: 1px solid #21262b;
-	color: #21262b;
+	color: #3160f2;
 }
 QTreeView::item {
 	height: 18px;
