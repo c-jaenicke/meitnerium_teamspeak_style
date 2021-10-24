@@ -224,41 +224,41 @@ QToolBar {
 }
 /* ToolButton */
 QToolButton {
-	border: 1px;
-	border-radius: none;
+    border: 2px transparent;
+    border-radius: 3px;
 	background-color: none;
 	color: #ffffff;
 }
 QToolButton:pressed {
-	border: 1px solid #424b55;
+	border: 2px transparent;
 	border-radius: 3px;
 	background: #424b55;
 	color: #000;
 }
 QToolButton:hover {
-	border: 1px solid;
-	border-radius: 2px;
+	border: 2px transparent;
+	border-radius: 3px;
 	background: #95917d;
 	color: #ffffff;
 }
 QToolButton:checked, QToolButton#serverQueryAdvancedButton:checked {
-	border: 1px;
+	border: 2px transparent;
 	border-radius: 3px;
 	background: #424b55;
 	color: #000;
 }
 QToolButton[popupMode="1"] {
-	border: 1px;
+	border: 2px transparent;
 	border-radius: 3px;
 	padding-right: 15px;
 }
 QToolButton[popupMode="1"]:hover {
-	border: 1px;
+	border: 2px transparent;
 	border-radius: 3px;
 	padding-right: 15px;
 }
 QToolButton[popupMode="1"]:checked {
-	border: 1px;
+	border: 2px transparent;
 	background: #424b55;
 	color: #000;
 	border-radius: 3px;
