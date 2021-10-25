@@ -22,7 +22,7 @@ p {
 /* @end */
 
 a {
-  color: #75ffd6;
+  color: #acff82;
   font-style: italic;
 }
 
