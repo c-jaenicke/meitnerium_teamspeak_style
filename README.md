@@ -4,11 +4,11 @@ A custom Teamspeak 3 skin, based on my [Meitnerium Theme](https://c-jaenicke.eu/
 
 ## Images
 
-![blue current chat](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/blue_current-chat.png)
+![blue](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/blue.png)
 
-![blue main chat](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/blue_main-chat.png)
+![gold](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/gold.png)
 
-![bot settings](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/blue_settings.png)
+![simple blue](https://raw.githubusercontent.com/c-jaenicke/meitnerium_teamspeak_style/main/images/simpleblue.png)
 
 ## Icon Pack
 
